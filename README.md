@@ -1,12 +1,6 @@
-# 🚀 CRUD User Service API
+# CRUD User Service API
 
 A modern and minimal REST API built with **FastAPI**, **SQLAlchemy**, and **SQLite** for performing full CRUD (Create, Read, Update, Delete) operations on user data. Includes a simple UI built with **Tailwind CSS**.
-
-<p align="center">
-  <a href="https://github.com/Harshitkumargit/crud-user-service-api/stargazers"><img src="https://img.shields.io/github/stars/Harshitkumargit/crud-user-service-api" alt="Stars"></a>
-  <a href="https://github.com/Harshitkumargit/crud-user-service-api/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT License"></a>
-  <a href="https://github.com/Harshitkumargit/crud-user-service-api/issues"><img src="https://img.shields.io/github/issues/Harshitkumargit/crud-user-service-api" alt="Issues"></a>
-</p>
 
 ---
 
