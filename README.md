@@ -2,6 +2,11 @@
 
 A modern and minimal REST API built with **FastAPI**, **SQLAlchemy**, and **SQLite** for performing full CRUD (Create, Read, Update, Delete) operations on user data. Includes a simple UI built with **Tailwind CSS**.
 
+### 
+
+https://github.com/user-attachments/assets/285cb7e0-2c50-4587-b7ff-5851f455529b
+
+
 ---
 
 ## 🧩 Features
